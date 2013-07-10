@@ -1,0 +1,14 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Me: Jesse Vogt
+  Site: jvogt.net
+  Email: jesse.vogt@gmail.com
+  Twitter: @jesse_vogt
+  Location: Wisconsin, US
+
+/* THANKS */
+  Names (& URL): Amy and Paul (paulirish.com)
+
