@@ -11,7 +11,7 @@ description: Resume for Jesse Vogt
 keywords: jesse vogt jesse.vogt jessevogt jesse_vogt javo shyknee shy0knee resume jesse.vogt@gmail.com jesse@shyknee.net software developer engineer passionate design development deliver smart get things done c++ c qt python php java spring shyknee.net jessevogt.info jvogt.net
 ---
 
-Additional contact information and links to personal projects and repositories at jvogt.net
+Additional contact information and links to personal projects and repositories at [jvogt.net](http://jvogt.net).
 
 Highlights
 ==========
@@ -92,6 +92,9 @@ Accompolishments included:
 * Create internal tools for increased debugging and testing efficiency (data acquisition and analysis, algorithm analysis and comparison, test script writing for test team to help with automation)
 
 ###### Technologies used: C++, Qt, Python, C, Perl, C#, Subversion, PostgreSQL, Enterprise Architect, DICOM, dcmtk
+
+&nbsp;
+{: .pagebreak }
 
 English Teacher at Ewha American Language School (Feb 06-July 07)
 -----------------------------------------------------------------
