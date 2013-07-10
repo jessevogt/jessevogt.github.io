@@ -61,6 +61,17 @@ li {
 	display:inline;
 	width: 33.333%;
 }
+#footer {
+	padding-top: 1em;
+	clear: both;
+	text-align: center;
+	font-size: 0.5em;
+}
+#footer a:link, #footer a:active, #footer a:visited, #footer a:hover {
+	color: #333;
+	text-decoration: none;
+	border: none;
+}
 @media (max-width: 810px) {
 	#content { width: 95%; }
 	.project img {
