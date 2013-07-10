@@ -20,8 +20,8 @@ When I am not working, I enjoy spending time with my beautiful wife; staying
 active through running, biking, and sports; hacking personal projects; and
 trying to keep my backlog of unread articles reasonable.
 
-For a little more detail, check out my [resume][resume]. Among other ways I can
-be reached via [jesse.vogt@gmail.com][email] or [@jesse_vogt][twitter].
+For a little more detail, check out my [resume][resume]. I can be reached via
+[jesse.vogt@gmail.com][email] or [@jesse_vogt][twitter].
 
 projects
 ========
