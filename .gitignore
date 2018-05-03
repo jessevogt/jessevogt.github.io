@@ -1,4 +1,4 @@
-*~
-*.swp
+.*.swp
 .DS_Store
 /_site
+/.sass-cache
