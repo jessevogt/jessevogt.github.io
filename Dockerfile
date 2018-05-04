@@ -7,5 +7,5 @@ RUN apk update && \
 
 WORKDIR /src
 
-# COPY Gemfile .
-# RUN bundle install 
+COPY Gemfile .
+RUN bundle install 
